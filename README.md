@@ -1,4 +1,4 @@
 # MyJavaCode
 This is my first repository.
 <br>
-Author - Md Yusuf
+Author - Md Yusuf Sheikh
